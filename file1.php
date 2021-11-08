@@ -7,7 +7,7 @@ require_once "lib/board.php";
 require_once "lib/game.php";
 require_once "lib/users.php";
 
-$a= 20;
+$a= 200;
 
 
 
