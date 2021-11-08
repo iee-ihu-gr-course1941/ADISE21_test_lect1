@@ -8,6 +8,7 @@ require_once "lib/game.php";
 require_once "lib/users.php";
 
 $a= 100;
+$b=10;
 
 
 
