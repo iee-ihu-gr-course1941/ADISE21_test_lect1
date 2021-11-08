@@ -9,7 +9,7 @@ require_once "lib/users.php";
 
 $a= 200;
 
-
+$b=1000;
 
 $method = $_SERVER['REQUEST_METHOD'];
 $request = explode('/', trim($_SERVER['PATH_INFO'],'/'));
